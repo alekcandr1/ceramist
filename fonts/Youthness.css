@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Youthness';
+    src: url('fonts/Youthness.eot');
+    src: url('fonts/Youthness.eot') format('embedded-opentype'),
+         url('fonts/Youthness.woff2') format('woff2'),
+         url('fonts/Youthness.woff') format('woff'),
+         url('fonts/Youthness.ttf') format('truetype'),
+         url('fonts/Youthness.svg#Youthness') format('svg');
+}
